@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestProgram
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ this\ the\ main\ method\ of\ the\ program\r\n
+comment2.params=stamps
+comment2.target=void\ menu(StampCollection)
+comment2.text=\r\n\ this\ method\ displays\ the\ main\ menu\ of\ the\ program\r\n
+numComments=3
