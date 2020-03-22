@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=
+comment1.target=Customer()
+comment1.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Customer\r\n\ defaults\ id\ to\ random\ id(1-99)\r\n\ defaults\ name\ to\ TestCustomer\ +\ id\r\n
+comment2.params=newname\ newid
+comment2.target=Customer(java.lang.String,\ int)
+comment2.text=\r\n\ Construster\ that\ takes\ in\ and\ sets\ new\ name\ and\ id\r\n\ @pram\ newname\ -\ the\ name\ for\ the\ Customer\r\n\ @pram\ newid\ -\ the\ id\ for\ the\ Customer\r\n
+comment3.params=
+comment3.target=java.lang.String\ genName()
+comment3.text=\r\n\ this\ method\ generates\ a\ name\ for\ the\ Customer\r\n\ @returns\ name\ -\ the\ generated\ name\ for\ the\ Customer,\ TestCustomer\ +\ id\r\n
+comment4.params=
+comment4.target=int\ genID()
+comment4.text=\r\n\ this\ method\ generates\ a\ name\ for\ the\ Customer\r\n\ @returns\ id\ -\ the\ generated\ id\ for\ the\ Customer,\ an\ int\ from\ 1-99\r\n
+comment5.params=newname
+comment5.target=void\ setName(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=
+comment7.target=int\ getID()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
