@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Conversion
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ this\ is\ the\ main\ class\ for\ this\ program\r\n
+comment2.params=x\ a
+comment2.target=double[]\ collectAverage(int,\ double[])
+comment2.text=\r\n\ takes\ in\ int\ and\ array,\ coppys\ array\ and\ makes\ a\ new\ array\ +\ 1,\ \r\n\ then\ adds\ int(converted\ to\ a\ double)to\ the\ end\ of\ the\ new\ array\ \r\n\ then\ returns\ an\ array\ of\ doubles\r\n\ @param\ x\ -\ the\ new\ number\ to\ add\ to\ the\ end\ of\ the\ array\r\n\ @param\ a[]\ -\ the\ array\ that\ stores\ the\ entered\ numbers\r\n\ @return\ avArr\ -\ returns\ the\ array\ at\ the\ new\ length\r\n
+comment3.params=a
+comment3.target=double\ getAverage(double[])
+comment3.text=\r\n\ goes\ trough\ the\ given\ array\ of\ doubles\ to\ get\ the\ average\r\n\ then\ returns\ the\ average\ \r\n\ @param\ a[]\ -\ the\ array\ that\ stores\ the\ entered\ data\r\n\ @return\ average\ -\ the\ average\ of\ the\ numbers\ stored\ in\ the\ array\r\n
+comment4.params=s
+comment4.target=void\ isNumString(java.lang.String)
+comment4.text=\r\n\ checks\ the\ input\ string\ for\ non\ number\ characters\ or\ \r\n\ whitespace\ if\ found\ throws\ exception.\r\n\ also\ checks\ if\ the\ user\ input\ is\ over\ 8\ characters\ long,\ if\ true\ throws\ exception.\r\n\ @param\ s\ -\ the\ user\ input\ string\ to\ check\r\n\ @throws\ Exception\ -\ throws\ exception\ when\ input\ string\r\n\ has\ whitespace,\ non\ number\ characters\ or\ is\ too\ long\r\n
+comment5.params=s
+comment5.target=int\ stringToInt(java.lang.String)
+comment5.text=\r\n\ this\ method\ uses\ recursion\ to\ go\ through\ a\ string\ of\ \r\n\ numbers\ to\ convert\ them\ into\ a\ single\ integer\r\n\ @pram\ s\ -\ the\ string\ of\ numbers\ to\ convert\r\n\ @return\ a\ -\ the\ int\ resulting\ from\ the\ string\ of\ numbers\ being\ converted\r\n
+numComments=6
