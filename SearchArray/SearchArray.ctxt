@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SearchArray
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ this\ is\ the\ main\ mathod\ for\ this\ class\r\n
+comment2.params=a
+comment2.target=boolean\ isFull(int[])
+comment2.text=\r\n\ this\ method\ is\ a\ boolean\ check\ to\ see\ if\ givin\ array\ is\ full\r\n\ @pram\ a\ -\ integer\ array\ \r\n
+comment3.params=c
+comment3.target=boolean\ isYorN(char)
+comment3.text=\r\n\ this\ method\ takes\ in\ a\ char\ and\ if\ that\ char\ equals\ y\ returns\ true\ or\ n\ \=\=\ false\r\n\ returns\ false\ if\ any\ othe\ char\ is\ entered\r\n\ @pram\ c\ -\ character\ to\ check\ for\ y\ or\ n\r\n
+comment4.params=a\ displayZeros
+comment4.target=void\ displayArray(int[],\ boolean)
+comment4.text=\r\n\ this\ method\ displays\ the\ array\ and\ an\ array\ index\ \r\n\ if\ displayZeros\ is\ false\ the\ printout\ will\ not\ print\ \r\n\ any\ zeros\ that\ may\ exist\ in\ the\ list\r\n\ @pram\ a\ -\ integer\ array\r\n\ @pram\ displayZeros\ -\ boolean\ to\ determin\ wether\ to\ print\ zero\ elements\r\n
+comment5.params=a\ index1\ index2
+comment5.target=void\ swap(int[],\ int,\ int)
+comment5.text=\r\n\ this\ method\ swaps\ two\ elements\ palces\ within\ a\ list.\r\n\ @pram\ a\ -\ integer\ array\r\n\ @pram\ index1\ -\ first\ index,\ the\ element\ at\ this\ index\ will\ be\ swaped\ with\ index2\ \r\n\ @pram\ index2\ -\ second\ index,\ the\ element\ at\ this\ index\ will\ be\ swaped\ with\ index1\ \r\n
+comment6.params=a\ index
+comment6.target=void\ remove(int[],\ int)
+comment6.text=\r\n\ this\ method\ sets\ an\ element\ in\ an\ array\ to\ zero\ \r\n\ then\ swaps\ the\ new\ zero\ element\ untill\ it\ is\ \r\n\ ordered\ with\ the\ other\ empty[0]\ elements\ in\ the\ array\r\n\ @pram\ a\ -\ integer\ array\r\n\ @pram\ index\ -\ the\ index\ of\ the\ element\ to\ "remove"/\ set\ to\ zero\r\n
+comment7.params=a\ index\ value
+comment7.target=void\ insert(int[],\ int,\ int)
+comment7.text=\r\n\ this\ method\ inserts\ a\ new\ value\ within\ an\ array\ at\ the\ specified\ index\r\n\ @pram\ a\ -\ integer\ array\r\n\ @pram\ index\ -\ the\ index\ for\ the\ new\ element\r\n\ @pram\ value\ -\ the\ new\ value\ to\ be\ inserted\r\n
+numComments=8
