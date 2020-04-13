@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ConvertToBase
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ the\ main\ driver\ method\ for\ this\ program\r\n
+comment2.params=num\ base\ stack
+comment2.target=void\ convertToBase(int,\ int,\ ArrayStack)
+comment2.text=\r\n\ this\ method\ converts\ an\ input\ base\ 10\ number\ to\ a\ diffrent\ base\ \r\n\ that\ is\ also\ input\ by\ the\ user\r\n\ \r\n\ uses\ stack\ to\ store\ the\ resulting\ values\r\n\ \r\n
+numComments=3
