@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainProgram
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ this\ is\ the\ main\ method\ for\ this\ program\r\n
+comment2.params=id\ employees\ keySet
+comment2.target=void\ dataGet(int,\ java.util.Map,\ java.util.Set)
+comment3.params=threshold\ employees\ keySet
+comment3.target=void\ displayFilter(double,\ java.util.Map,\ java.util.Set)
+comment3.text=\r\n\ this\ method\ prints\ out\ a\ list\ of\ employees\ who\ have\ a\ salary\ above\ the\ threashold\r\n\ \r\n\ @pram\ threshold\ -\ the\ minimum\ salary\ for\ the\ program\ to\ print\ out\r\n\ @pram\ employees\ -\ the\ pass\ through\ for\ the\ Map\ of\ Employee\ objects\r\n\ @pram\ keySet\ -\ the\ pass\ through\ for\ the\ keyset\r\n
+comment4.params=id\ employees\ keySet
+comment4.target=boolean\ isUsed(int,\ java.util.Map,\ java.util.Set)
+comment4.text=\r\n\ this\ method\ returns\ if\ the\ id\ is\ already\ in\ use\ in\ the\ given\ Map\r\n\ @pram\ id\ -\ the\ employee\ id\ to\ check\ if\ it\ has\ been\ used\r\n\ @pram\ employees\ -\ the\ pass\ through\ for\ the\ Map\ of\ Employee\ objects\r\n\ @pram\ keySet\ -\ the\ pass\ through\ for\ the\ keyset\r\n
+comment5.params=
+comment5.target=Employee\ createTestEmployee()
+comment5.text=\r\n\ this\ method\ generates\ an\ employee\ object\ with\r\n\ a\ random\ id\ 1-999\r\n\ a\ name\ that\ is\ TestEmp\ +\ id\r\n\ a\ random\ salary\ $20,000\ -\ $120,000\r\n\ @return\ n\ -\ the\ generated\ employee\ object.\r\n
+numComments=6
