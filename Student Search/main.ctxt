@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=
+comment1.target=void\ main()
+comment1.text=\r\n\ this\ method\ is\ the\ main\ method\ for\ this\ program\r\n
+comment2.params=ch\ bst\ in\ spacing
+comment2.target=void\ choose(int,\ BinarySearchTree,\ java.util.Scanner,\ java.lang.String)
+comment2.text=\r\n\ this\ method\ handles\ the\ user\ input\ and\ adding\ and\ removing\ data\ from\ the\ binary\ search\ tree\r\n\ @pram\ ch\ -\ the\ users\ menu\ choice\r\n\ @pram\ bst\ -\ the\ givin\ binary\ search\ tree\r\n\ @pram\ in\ -\ the\ Scanner\ object\r\n\ @pram\ spacing\ -\ the\ string\ spacing\ for\ the\ menu\ output\r\n
+comment3.params=bst\ st
+comment3.target=Student\ search(BinarySearchTree,\ Student)
+comment3.text=\r\n\ this\ method\ searches\ through\ the\ giving\ binary\ search\ tree\ for\ the\ given\ student\r\n\ @pram\ bst\ -\ binary\ search\ tree\ to\ search\ through\r\n\ @pram\ st\ -\ the\ student\ object(id\ only)\ to\ search\ through\ the\ tree\ for\r\n\ @returns\ found\ -\ returns\ the\ full\ student\ object\ if\ found,\ returns\ null\ if\ not\ found\r\n
+comment4.params=majorf\ bst\ spacing
+comment4.target=void\ printFilteredList(java.lang.String,\ BinarySearchTree,\ java.lang.String)
+comment4.text=\r\n\ this\ method\ prints\ out\ all\ elements\ within\ a\ givin\ binary\ search\ tree\r\n\ filtered\ by\ the\ given\ major\r\n\ @pram\ majorf\ -\ the\ Major\ used\ as\ a\ filter\r\n\ @pram\ bst\ -\ the\ binary\ search\ tree\ to\ print\r\n\ @pram\ spacing\ -\ the\ string\ formating\ spacing\r\n
+comment5.params=bst\ spacing
+comment5.target=void\ printList(BinarySearchTree,\ java.lang.String)
+comment5.text=\r\n\ this\ method\ prints\ out\ all\ elements\ within\ a\ givin\ binary\ search\ tree\r\n\ @pram\ bst\ -\ the\ binary\ search\ tree\ to\ print\r\n\ @pram\ spacing\ -\ the\ string\ formating\ spacing\r\n
+comment6.params=bst\ spacing
+comment6.target=void\ printMenu(BinarySearchTree,\ java.lang.String)
+comment6.text=\r\n\ this\ method\ prints\ out\ the\ main\ menu\ for\ the\ program\r\n\ @pram\ bst\ -\ the\ BinarySearchTree\ to\ print\r\n\ @pram\ spacing\ -\ the\ string\ format\ spacing\ for\ the\ menu\r\n
+numComments=7
